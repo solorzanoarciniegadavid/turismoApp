@@ -20,6 +20,9 @@
                 <span class="price"><i class="fa fa-usd"></i> 1,500</span>
                 <span class="person">por persona</span>
             </div>
+            <div>
+              
+            </div>
         </div>
     </div>
 </div>

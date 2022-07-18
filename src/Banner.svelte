@@ -13,11 +13,12 @@
     .banner {
     padding: 6em 0 8em 0;
     text-align: center;
-  width: 100%;
-  background-image: url(https://images.pexels.com/photos/1266831/pexels-photo-1266831.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1266831.jpg&fm=jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.3);
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/1266831/pexels-photo-1266831.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1266831.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.3);
 }
 
 .border {
